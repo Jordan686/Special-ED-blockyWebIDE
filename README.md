@@ -26,16 +26,18 @@ Após o desenvolvimento da IDE, foram ministradas duas aulas por mim, com acompa
 
 O website foi feito para ser utilizado com o touch, devido a maior facilidade mecânica e intuitividade de uso.
 
-<img width="1327" height="799" alt="image" src="https://github.com/user-attachments/assets/5576dc45-0eba-4a02-8a4b-1bbd1598eac1" />
 
+<p align="center">
+  <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/8b79bd8f-9b88-4275-aa43-187ef7ad193c" />
+</p>
 
 Era possivel selecionar com o dedo e então arrastar os blocos, que podiam ser encaixados em outros blocos que fossem compatíveis 
 
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/8b79bd8f-9b88-4275-aa43-187ef7ad193c" />
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a851af39-b2f7-499c-bf2c-8c92e84dcd21" width="400">
+ <img width="1327" height="799" alt="image" src="https://github.com/user-attachments/assets/5576dc45-0eba-4a02-8a4b-1bbd1598eac1" />
 </p>
+
+
 
 Finally, a rating feature was implemented, allowing clinic visitors to leave feedback.
 
