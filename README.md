@@ -26,6 +26,7 @@ Após o desenvolvimento da IDE, foram ministradas duas aulas por mim, com acompa
 
 O website foi feito para ser utilizado com o touch, devido a maior facilidade mecânica e intuitividade de uso.
 
+<img width="1327" height="799" alt="image" src="https://github.com/user-attachments/assets/5576dc45-0eba-4a02-8a4b-1bbd1598eac1" />
 
 
 Using the index functionality, users were able to navigate between the topics covered by the campaign.
