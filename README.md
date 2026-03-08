@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://github.com/Jordan686/projetoextensionistaFSG">
+<a href="https://github.com/Jordan686/Special-ED-blockyWebIDE">
   <img src="https://img.shields.io/badge/English-Click%20Here-blue?style=for-the-badge" alt="English">
 </a>
 
@@ -14,19 +14,19 @@
 
 </div>
 
-#  Awareness Campaign – UBS Rio Branco
+#  IDE WEB visual, para ensino de HTML & CSS & JAVASCRIPT em uma turma de educação especial.
 
-After interviewing staff members at **UBS Rio Branco (Unidade Básica de Saúde – a public primary healthcare clinic in Brazil)** and gathering their needs, it was decided to create an awareness campaign supported by an informational website containing the content they wanted to communicate.
+O projeto constituiu de uma IDE utilizando a biblioteca Blocky, do Google como base, mas personalizada para atender os critérios decididos por uma professora de educação especial, e para que assim fosse usada para lecionar em uma turma de alunos com defícits de aprendizado, sobre o desenvolvimento web. Também incluiu algumas funcionalidades a mais para a conveniência da utilização de modo geral.
+
+Após o desenvolvimento da IDE, foram ministradas duas aulas por mim, com acompanhamento da professora.
 
 ---
 
 ##  Informational Website
 
-The website is compatible with both mobile and desktop devices, featuring a caching system to prevent excessive data usage when loading content, and automatically adjusting to maintain proper readability regardless of the device used for access.
+O website foi feito para ser utilizado com o touch, devido a maior facilidade mecânica e intuitividade de uso.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3bab7021-233d-4c4d-b3be-be99bdf29245" width="400">
-</p>
+
 
 Using the index functionality, users were able to navigate between the topics covered by the campaign.
 
