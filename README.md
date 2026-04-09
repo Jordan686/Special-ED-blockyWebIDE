@@ -35,24 +35,30 @@ Era possivel selecionar com o dedo e então arrastar os blocos, que podiam ser e
 
 <p align="center">
  <img width="1327" height="799" alt="image" src="https://github.com/user-attachments/assets/5576dc45-0eba-4a02-8a4b-1bbd1598eac1" />
+
+  <img width="348" height="1076" alt="image" src="https://github.com/user-attachments/assets/d0e1f516-0795-42d7-b718-259c82d7a29c" />
+
+ 
+
 </p>
 
 
 
-Finally, a rating feature was implemented, allowing clinic visitors to leave feedback.
+There was zoom controls, a trashcan to drag elements to and delete them, and the block list contained all html and scripting elements necessary for a complete website
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d513266e-55d7-4a23-878e-13b4b74975e4" width="400">
+
+   <img width="374" height="288" alt="image" src="https://github.com/user-attachments/assets/328755d1-0660-4026-8be4-70b03c080dfd" />
+
 </p>
 
 ---
 
-##  Presentation
-
-Using Python, plots were generated based on the collected evaluations for the final project presentation.
+The hide-able panel at the right provided a system to save progress on an ongoing project, load past projects, or to export a project as a HTML file, a preview of the current look of the page that would reflect in real-time the changes being made, and the page in the code format. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83a751a5-ad48-441f-9434-19ed1fa7e21a" width="400">
+  <img src="https://github.com/user-attachments/assets/8107012b-04b9-4b99-821c-22c8f55661c6" width="400">
 </p>
 
 ---
