@@ -36,10 +36,6 @@ Era possivel selecionar com o dedo e então arrastar os blocos, que podiam ser e
 <p align="center">
  <img width="1327" height="799" alt="image" src="https://github.com/user-attachments/assets/5576dc45-0eba-4a02-8a4b-1bbd1598eac1" />
 
-  <img width="348" height="1076" alt="image" src="https://github.com/user-attachments/assets/d0e1f516-0795-42d7-b718-259c82d7a29c" />
-
- 
-
 </p>
 
 
@@ -47,8 +43,9 @@ Era possivel selecionar com o dedo e então arrastar os blocos, que podiam ser e
 There was zoom controls, a trashcan to drag elements to and delete them, and the block list contained all html and scripting elements necessary for a complete website
 
 <p align="center">
+  
   <img src="https://github.com/user-attachments/assets/d513266e-55d7-4a23-878e-13b4b74975e4" width="400">
-
+  <img width="348" height="1076" alt="image" src="https://github.com/user-attachments/assets/d0e1f516-0795-42d7-b718-259c82d7a29c" />
    <img width="374" height="288" alt="image" src="https://github.com/user-attachments/assets/328755d1-0660-4026-8be4-70b03c080dfd" />
 
 </p>
