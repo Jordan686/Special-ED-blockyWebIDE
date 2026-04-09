@@ -22,7 +22,7 @@ The project consisted of developing an IDE based on Google's Blockly library, cu
 ---
 
 
-The website was designed to be used with touch input, due to its ease of use and intuitive interaction.
+The web app was designed to be used with touch input, due to its ease of use and intuitive interaction.
 
 <p align="center">
   <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/8b79bd8f-9b88-4275-aa43-187ef7ad193c" />
