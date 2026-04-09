@@ -56,4 +56,4 @@ O painel ocultável à direita oferecia um sistema para salvar o progresso de um
 
 ## Aplicação prática
 
-Com a IDE finalizada, ela foi aplicada em duas aulas que ministrei para os alunos, sob a supervisão de uma professora de educação especial. Durante as aulas, foram abordadas estruturas básicas de HTML e estilização, como criação de tabelas, barras de navegação e inputs.
+Com a IDE finalizada, ela foi aplicada em duas aulas que ministrei para os alunos, sob a supervisão de uma professora de educação especial. Durante as aulas, foram abordadas estruturas básicas de HTML e estilização, como criação de tabelas, nav bars e inputs.
