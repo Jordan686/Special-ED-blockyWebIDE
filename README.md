@@ -57,7 +57,7 @@ There was zoom controls, a trashcan to drag blocks into to delete them, and the 
    
 
 </p>
--
+
 
 The hide-able panel at the right provided a system to save progress on an ongoing project, load past projects, or to export a project as a HTML file, a preview of the current look of the page that would reflect in real-time the changes being made, and the page in the code format. 
 
