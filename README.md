@@ -51,7 +51,8 @@ There was zoom controls, a trashcan to drag blocks into to delete them, and the 
 
 <br>
 <p align="center">
-  <img width="348" height="1076" alt="image" src="https://github.com/user-attachments/assets/d0e1f516-0795-42d7-b718-259c82d7a29c" />
+  <img width="499" height="1074" alt="image" src="https://github.com/user-attachments/assets/049b5e61-83ad-4e42-8d8a-d93bf9cc229f" />
+
   
    
 
