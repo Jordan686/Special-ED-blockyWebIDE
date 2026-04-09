@@ -40,7 +40,7 @@ Era possivel selecionar com o dedo e então arrastar os blocos, que podiam ser e
 
 
 
-There was zoom controls, a trashcan to drag elements to and delete them, and the block list contained all html and scripting elements necessary for a complete website
+There was zoom controls, a trashcan to drag blocks into to delete them, and the block list contained all html and scripting elements necessary for a complete website
 
 <p align="center">
   <img width="374" height="288" alt="image" src="https://github.com/user-attachments/assets/328755d1-0660-4026-8be4-70b03c080dfd" />
