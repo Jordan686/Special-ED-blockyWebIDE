@@ -57,12 +57,12 @@ There was zoom controls, a trashcan to drag blocks into to delete them, and the 
    
 
 </p>
----
+-
 
 The hide-able panel at the right provided a system to save progress on an ongoing project, load past projects, or to export a project as a HTML file, a preview of the current look of the page that would reflect in real-time the changes being made, and the page in the code format. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8107012b-04b9-4b99-821c-22c8f55661c6" width="400">
+  <img src="https://github.com/user-attachments/assets/8107012b-04b9-4b99-821c-22c8f55661c6" width="700">
 </p>
 
 ---
